@@ -1,3 +1,5 @@
 # Eyes
 ## Exercise on eyes
-<img src= "oneeye.png" width='300'/>
+# The eyes project is showing an eye that follows you when you move the cursor around.
+# The main code was provided as part of the MIT xpro course and adapted to show 2 eyes.
+# move the cursor and see what happens.
